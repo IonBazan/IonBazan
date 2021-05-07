@@ -4,7 +4,7 @@
 
 I'm a **Senior Software Developer** born in **Moldova** 🇲🇩, raised in **Poland** 🇵🇱 and based in **Singapore** 🇸🇬, who is passionate about good practices 📖, clean code 🧹, containerized environments 🐋 and good pizza 🍕.
 
- - 🏢 I'm currently working at **Secretlab**
+ - 🏢 I'm currently working at [**PomeloPay**](http://pomelopay.com/)
  - 📚 I have over 5 years of professional experience
  - ⚙️ I specialise in: **PHP**, **JavaScript**, **Linux**, **Docker**, **MySQL**, **PostgreSQL**, **Symfony**, **React**
  - 💬 Ping me about **Symfony**, **Laravel**, **development**, **DDD**
