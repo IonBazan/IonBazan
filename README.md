@@ -2,13 +2,14 @@
 
 > /iˈon bəˈzɑːn/
 
-I'm a **Senior Software Developer** born in **Moldova** 🇲🇩, raised in **Poland** 🇵🇱 and based in **Singapore** 🇸🇬, who is passionate about good practices 📖, clean code 🧹, containerized environments 🐋 and good pizza 🍕.
+I'm a **Full Stack Software Developer** born in **Moldova** 🇲🇩, raised in **Poland** 🇵🇱 and based in **Singapore** 🇸🇬, who is passionate about good practices 📖, clean code 🧹, containerized environments 🐋 and good pizza 🍕.
 
- - 🏢 I'm currently working at [**PomeloPay**](http://pomelopay.com/)
- - 📚 I have over 5 years of professional experience
- - ⚙️ I specialise in: **PHP**, **JavaScript**, **Linux**, **Docker**, **MySQL**, **PostgreSQL**, **Symfony**, **React**
- - 💬 Ping me about **Symfony**, **Laravel**, **development**, **DDD**
- - 🌱 Learning all about **Open Source**
+ - 🏢 I am currently working as **Lead Full Stack Software Developer** at [**PomeloPay**](http://pomelopay.com/)
+ - 👨‍💻 Maintaining [**Doctrine MongoDB ODM**](https://github.com/doctrine/mongodb-odm) and multiple [**Open Source projects**](https://github.com/IonBazan?tab=repositories&q=&type=source&language=&sort=stargazers)
+ - 📚 I have over 6 years of professional experience
+ - ⚙️ I specialise in: **PHP**, **React**, **JavaScript**, **Docker**, **MySQL**, **PostgreSQL**, **Symfony**, **Serverless**
+ - 💬 Ping me about **DDD**, **SOLID**, **Symfony**, **Doctrine**, **Laravel**
+ - 🌱 Learning all about **Open Source** and **Clean Architecture**
  - 🌏 I speak **Polish**, **Russian** and **English** (including **Singlish** 😉)
  - 📫 Reach me: [![Gmail Badge](https://img.shields.io/badge/-ion.bazan@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ion.bazan@gmail.com "Connect via Email")
  [![Linkedin Badge](https://img.shields.io/badge/-Ion%20Bazan-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ion-bazan/ "Connect on LinkedIn")
