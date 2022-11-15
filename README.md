@@ -8,7 +8,7 @@ I'm a **Full Stack Software Developer** born in **Moldova** 🇲🇩, raised in 
 curl -L bazan.dev
 ```
 
- - 🏢 I am currently working as **Lead Full Stack Software Developer** at [**PomeloPay**](http://pomelopay.com/)
+ - 🏢 I am currently working as **Tech Lead** at [**Aspire**](https://aspireapp.com/)
  - 👨‍💻 Maintaining [**Doctrine MongoDB ODM**](https://github.com/doctrine/mongodb-odm) and multiple [**Open Source projects**](https://github.com/IonBazan?tab=repositories&q=&type=source&language=&sort=stargazers)
  - 📚 I have over 6 years of professional experience
  - ⚙️ I specialise in: **PHP**, **React**, **JavaScript**, **Docker**, **MySQL**, **PostgreSQL**, **Symfony**, **Serverless**
