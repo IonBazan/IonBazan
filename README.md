@@ -10,7 +10,7 @@ curl -L bazan.dev
 
  - 🏢 I am currently working as **Tech Lead** at [**Aspire**](https://aspireapp.com/)
  - 👨‍💻 Maintaining [**Doctrine MongoDB ODM**](https://github.com/doctrine/mongodb-odm) and multiple [**Open Source projects**](https://github.com/IonBazan?tab=repositories&q=&type=source&language=&sort=stargazers)
- - 📚 I have over 6 years of professional experience
+ - 📚 I have over 8 years of professional experience
  - ⚙️ I specialise in: **PHP**, **React**, **JavaScript**, **Docker**, **MySQL**, **PostgreSQL**, **Symfony**, **Serverless**
  - 💬 Ping me about **DDD**, **SOLID**, **Symfony**, **Doctrine**, **Laravel**
  - 🌱 Learning all about **Open Source** and **Clean Architecture**
