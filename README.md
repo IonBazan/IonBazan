@@ -8,11 +8,11 @@ I'm a **Full Stack Software Engineer** born in **Moldova** 🇲🇩, raised in *
 curl -L bazan.dev
 ```
 
- - 🏢 Currently working as **Software Architect** at [**Aspire**](https://aspireapp.com/)
+ - 🏢 Currently working as **Software Engineer** at [**Wise**](https://wise.com/)
  - 👨‍💻 Maintaining [**Doctrine MongoDB ODM**](https://github.com/doctrine/mongodb-odm) and multiple [**Open Source projects**](https://github.com/IonBazan?tab=repositories&q=&type=source&language=&sort=stargazers)
  - 📚 Over 10 years of professional experience
- - ⚙️ Specialising in: **Golang**, **PHP**, **React**, **TypeScript**, **Docker**, **MySQL**, **PostgreSQL**, **Symfony**, **Serverless**
- - 💬 Ping me about **DDD**, **SOLID**, **Symfony**, **Doctrine**, **Laravel**
+ - ⚙️ Specialising in: **Java**, **Golang**, **PHP**, **React**, **TypeScript**, **Docker**, **MySQL**, **PostgreSQL**, **Symfony**, **Serverless**
+ - 💬 Ping me about **DDD**, **SOLID**, **Microservices**, **Symfony**, **Doctrine**, **Laravel**
  - 🌱 Learning all about **AI**, **Cybersecurity**, **Open Source** and **Clean Architecture**
  - 🌏 Speaking **Polish**, **Russian** and **English** (including **Singlish** 😉)
  - 📫 Reach me: [![Gmail Badge](https://img.shields.io/badge/-ion.bazan@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ion.bazan@gmail.com "Connect via Email")
